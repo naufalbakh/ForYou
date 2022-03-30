@@ -307,4 +307,9 @@ body {
     font-size: 1.5rem;
     font-weight: lighter;
   }
+  
+  .fira-dp{
+    width: 80%;
+    border-radius: 90px;
+  }
 }
